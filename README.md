@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Ashish 👋
 
 Welcome to my GitHub! I'm an experienced Software Engineer with a master's degree in Computing from Dublin City University, specializing in Secure Software Engineering. With 2 years of experience in fintech product development, specifically in the credit domain, at ElasticRun, a unicorn startup, I bring a strong foundation in building secure and scalable solutions.
@@ -45,5 +42,3 @@ Developed a URL shortening service that provides quick and easy-to-share links. 
 I thrive in dynamic startup environments where innovation is key.
 
 Thanks for stopping by! Feel free to check out my repositories or get in touch if you want to collaborate.
-
--->
