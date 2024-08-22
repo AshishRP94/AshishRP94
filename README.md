@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm an experienced Software Engineer with a master's degre
 - 🔐 **Education**: Masters in Computing with majors in Secure Software Engineering
 - 💻 **Experience**: 2 years at ElasticRun (a unicorn startup by Softbank and Goldman Sachs) in fintech product development
 - 🛠️ **System Design**: Proficient in SOLID principles, DRY, TDD, and BDD
-- 🧠 **Core Skills**: Strong foundation in Data Structures and Algorithms
+- 🧠 **Core Skills**: Strong foundation in Data Structures and Algorithms and System Design
 - 💡 **Philosophy**: Programming languages are viewed as evolving tools, and I embrace continuous learning and innovation in software development
 - 🌍 **Goal**: Committed to exceeding complex business requirements and making a significant impact on millions of users
 
