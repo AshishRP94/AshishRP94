@@ -35,7 +35,6 @@ Developed a URL shortening service that provides quick and easy-to-share links. 
 
 - **Email**: [patil.ashish.19it5008@gmail.com](mailto:patil.ashish.19it5008@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ashish-patil-761481150](https://www.linkedin.com/in/ashish-patil-761481150/)
-- **Portfolio**: [ashish-portfolio.com](http://ashish-portfolio.com)
 
 ## ⚡ Fun Fact
 
