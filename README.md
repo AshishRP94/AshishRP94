@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm an experienced Software Engineer with a master's degre
 ## 📈 My Live Work & Projects
 
 [URL Shortener](http://16.170.224.164)
-Developed a URL shortening service that provides quick and easy-to-share links. The project showcases my skills in building efficient, user-friendly web applications.
+Developed a URL shortening service that provides quick and easy-to-share links. The project showcases my skills in building efficient,scalable and user-friendly web applications.
 
 ## 🔗 Links
 
